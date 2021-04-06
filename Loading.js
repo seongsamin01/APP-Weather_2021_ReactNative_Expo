@@ -15,10 +15,13 @@ const styles = StyleSheet.create({
     justifyContent: "flex-end",
     paddingHorizontal: 30,
     paddingVertical: 130,
-    backgroundColor: "#2c3e50"
+    backgroundColor: "black",
+    justifyContent: "center",
+    ailgnItems: "center"
   },
   text: {
     color: "white",
-    fontSize: 24
+    fontSize: 24,
+    textAlign: "center"
   }
 });
