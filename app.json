@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Learning React Native by Building a daily-weather-app",
+    "githubUrl": "https://github.com/seongsamin01/APP-Weather_2021_ReactNative_Expo"
   }
 }
